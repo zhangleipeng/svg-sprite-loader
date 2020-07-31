@@ -1,4 +1,4 @@
-# ts-template
+# ts svg-sprite-loader 示例
 
 ## Project setup
 ```
