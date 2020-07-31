@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>图谱/下拉白</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图谱/下拉白" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="caret-down" transform="translate(-0.000000, -0.000000)">
+            <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M13.13125,4.6875 L2.86875,4.6875 C2.5609375,4.6875 2.3890625,5.0125 2.5796875,5.234375 L7.7109375,11.184375 C7.8578125,11.3546875 8.140625,11.3546875 8.2890625,11.184375 L13.4203125,5.234375 C13.6109375,5.0125 13.4390625,4.6875 13.13125,4.6875 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
